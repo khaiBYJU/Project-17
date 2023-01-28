@@ -157,9 +157,9 @@ function draw() {
     //   reset();
     // }
 
-    // if(keyDown("UP_ARROW")) {
-    //   reset();
-    // }
+     if(keyDown("UP_ARROW")) {
+       reset();
+     }
 }
 }
 

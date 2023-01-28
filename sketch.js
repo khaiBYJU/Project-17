@@ -237,5 +237,3 @@ function reset(){
   
 //  distance = 50;
 // }
-
-
